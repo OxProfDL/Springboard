@@ -1,7 +1,8 @@
 # [Project Name]
 
 **Live Demo:** [https://your-project.vercel.app](https://your-project.vercel.app)  
-**Tech Stack:** React, TypeScript, Vite, [others]
+**Tech Stack:** React, TypeScript, Vite, [others]  
+**Status:** Portfolio ready / In progress
 
 ## Overview
 One-paragraph description of the problem this project solves and why you built it. Mention relevance to AI apps or NeuroAI if applicable.
@@ -25,9 +26,20 @@ npm run dev
 ## Architecture / Decisions
 Brief notes on key technical decisions (component structure, state management, TypeScript usage, etc.).
 
+## Challenges Overcome
+- Key technical or design challenge and the solution
+
+## Testing
+- Approach used (manual, Jest, React Testing Library, etc.)
+
 ## What I Learned
 - Takeaways
 - Skills practiced that recruiters care about
 
 ## Future Improvements
 - Items for next iteration
+
+---
+
+## Quick Recap
+One or two sentences summarizing the project for a recruiter skimming the page.

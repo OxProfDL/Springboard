@@ -2,7 +2,7 @@
 
 **Portfolio of projects and assignments** from the Springboard Software Engineering Career Track.
 
-Focus: Modern JavaScript, React, TypeScript, Vite, Next.js, and building AI-powered application interfaces.
+Focus: Modern **JavaScript**, **React**, **TypeScript**, **Vite**, **Next.js**, and building AI-powered application interfaces for NeuroAI and software engineering roles.
 
 ## Tech Stack
 - **Languages**: JavaScript (ES6+), TypeScript
@@ -14,11 +14,11 @@ Focus: Modern JavaScript, React, TypeScript, Vite, Next.js, and building AI-powe
 - **Other**: Git, GitHub, AI coding agents integration
 
 ## Highlighted Projects
-*(Polished portfolio pieces will be featured here with live demos and screenshots as completed)*
+*(Polished portfolio pieces will be featured here with live demos and screenshots as completed. Paths are placeholders for now.)*
 
 | Project | Description | Tech | Live Demo | Repo Path |
 |---------|-------------|------|-----------|-----------|
-| Inventory App | TypeScript + Vite inventory management | TS, Vite, React | Coming soon | `/projects/inventory-app` |
+| Inventory App | TypeScript + Vite inventory management | TypeScript, Vite, React | Coming soon | `/projects/inventory-app` |
 | MissionCard Components | React props / JSX exercises elevated | React | Coming soon | `/projects/mission-cards` |
 | AI Agent Interface | Frontend for AI apps / agents | React / Next.js | Coming soon | `/projects/ai-agent-ui` |
 
@@ -26,6 +26,7 @@ Focus: Modern JavaScript, React, TypeScript, Vite, Next.js, and building AI-powe
 ```
 /
 ├── README.md                 # This file
+├── LICENSE
 ├── .gitignore
 ├── exercises/                # Unit exercises and practice
 │   └── [unit-name]/
@@ -34,16 +35,19 @@ Focus: Modern JavaScript, React, TypeScript, Vite, Next.js, and building AI-powe
 ├── templates/                # Templates for consistent assignments
 │   ├── assignment-README-template.md
 │   ├── project-README-template.md
-│   └── react-component-template.tsx
+│   ├── react-component-template.tsx
+│   └── workflow-guide.md
 └── docs/                     # Additional notes, screenshots, etc.
 ```
 
 ## How to Apply Templates
+See the detailed steps in [`templates/workflow-guide.md`](templates/workflow-guide.md).
+
+Quick version:
 1. Copy the relevant template from `/templates/` into your new assignment or project folder.
-2. Fill in the sections (Overview, Setup, Features, Screenshots, Learnings).
-3. Add a live demo link (deploy to Vercel) and screenshots in `/docs/` or project folder.
+2. Fill in the sections (Overview, Setup, Features, Screenshots, What I Learned, Challenges Overcome).
+3. Add a live demo link (deploy to Vercel) and screenshots.
 4. Keep commit history clean with meaningful messages.
-5. For React components, start from `react-component-template.tsx` and expand.
 
 ## Skills Demonstrated
 - Component-driven development with React
@@ -53,7 +57,7 @@ Focus: Modern JavaScript, React, TypeScript, Vite, Next.js, and building AI-powe
 - Integration of AI tools and agent interfaces
 
 ## Contact
-Dan Landayan  
+**Dan Landayan**  
 Website: [danlandayan.com](https://danlandayan.com)  
 LinkedIn: [/in/dlandayan](https://linkedin.com/in/dlandayan)
 
